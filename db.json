@@ -1,11 +1,6 @@
 {
   "articles": [
     {
-      "id": "2",
-      "title": "judul 2",
-      "content": "Ini Content 2"
-    },
-    {
       "id": "3",
       "title": "judul 3",
       "content": "Ini Content 3"
@@ -14,6 +9,11 @@
       "id": 4,
       "title": "sapi",
       "content": "sapi 1"
+    },
+    {
+      "id": 5,
+      "title": "hewan",
+      "content": "sapi 5"
     }
   ]
 }
